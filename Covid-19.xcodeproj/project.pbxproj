@@ -7,38 +7,38 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7D27592924450D2C00A864BB /* StatCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D27592824450D2C00A864BB /* StatCollectionViewCell.swift */; };
+		7D442C82244344C1009716EE /* Statistiques + Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D442C81244344C1009716EE /* Statistiques + Extension.swift */; };
+		7DA80D6F24438C8400A75BDD /* Chart.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DA80D6E24438C8400A75BDD /* Chart.swift */; };
+		7DA80D7124438CAF00A75BDD /* ChartSeries.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DA80D7024438CAF00A75BDD /* ChartSeries.swift */; };
+		7DA80D7324438CCA00A75BDD /* ChartColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DA80D7224438CCA00A75BDD /* ChartColors.swift */; };
+		7DE7B5C6245623E200B340AC /* MapModele.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DE7B5C4245623E200B340AC /* MapModele.swift */; };
+		7DE7B5C8245623F700B340AC /* Country.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DE7B5C7245623F600B340AC /* Country.swift */; };
 		AF37C286243683D900E00D52 /* DetailsCountryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF37C285243683D900E00D52 /* DetailsCountryViewController.swift */; };
-		AF37C288243684D500E00D52 /* LineChart.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF37C287243684D500E00D52 /* LineChart.swift */; };
-		AF37C28A243684FA00E00D52 /* CurveAlgorithm.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF37C289243684FA00E00D52 /* CurveAlgorithm.swift */; };
 		AF6F3806242F7CCD00F4257A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF6F3805242F7CCD00F4257A /* AppDelegate.swift */; };
 		AF6F3808242F7CCD00F4257A /* StatistiquesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF6F3807242F7CCD00F4257A /* StatistiquesViewController.swift */; };
 		AF6F380B242F7CCD00F4257A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF6F3809242F7CCD00F4257A /* Main.storyboard */; };
 		AF6F380D242F7CD100F4257A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF6F380C242F7CD100F4257A /* Assets.xcassets */; };
 		AF6F3810242F7CD100F4257A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF6F380E242F7CD100F4257A /* LaunchScreen.storyboard */; };
-		AFA3C28A24329AAC00526D61 /* TabBarMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFA3C28924329AAC00526D61 /* TabBarMenu.swift */; };
-		AFA3C28C24329BFB00526D61 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFA3C28B24329BFB00526D61 /* MapViewController.swift */; };
-		AFA3C29524329E0700526D61 /* ClusterAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFA3C29424329E0700526D61 /* ClusterAnnotationView.swift */; };
-		AFA3C29724329E0B00526D61 /* Cycle.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFA3C29624329E0A00526D61 /* Cycle.swift */; };
-		AFA3C29924329E0D00526D61 /* CycleAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFA3C29824329E0D00526D61 /* CycleAnnotationView.swift */; };
-		AFA3C29B24329E1000526D61 /* MapData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFA3C29A24329E0F00526D61 /* MapData.swift */; };
 		AFA3C29D24329F6000526D61 /* Data.plist in Resources */ = {isa = PBXBuildFile; fileRef = AFA3C29C24329F6000526D61 /* Data.plist */; };
-		AFA3C29F2432A23600526D61 /* MapModele.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFA3C29E2432A23600526D61 /* MapModele.swift */; };
-		AFA3C2A12432A37000526D61 /* MapViewNetworkCalls.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFA3C2A02432A37000526D61 /* MapViewNetworkCalls.swift */; };
 		AFF5C7B3242FAEB50077F488 /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFF5C7B2242FAEB50077F488 /* Extension.swift */; };
 		AFF5C7B5242FAEDD0077F488 /* Header.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFF5C7B4242FAEDD0077F488 /* Header.swift */; };
 		AFF5C7B7242FAF080077F488 /* StreachHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFF5C7B6242FAF080077F488 /* StreachHeader.swift */; };
 		AFF5C7B9242FBD3C0077F488 /* CountryDataCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFF5C7B8242FBD3C0077F488 /* CountryDataCollectionViewCell.swift */; };
 		AFF5C7BB242FD0330077F488 /* NewtworkCalls.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFF5C7BA242FD0330077F488 /* NewtworkCalls.swift */; };
-		AFF5C7BE242FD2CB0077F488 /* GlobalCount.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFF5C7BD242FD2CB0077F488 /* GlobalCount.swift */; };
-		AFF5C7C0242FE13E0077F488 /* Country.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFF5C7BF242FE13E0077F488 /* Country.swift */; };
 		AFFCABC72431044B00FAE146 /* RefreshView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFFCABC62431044B00FAE146 /* RefreshView.swift */; };
 		AFFCABC924310A6300FAE146 /* RefreshItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFFCABC824310A6300FAE146 /* RefreshItem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7D27592824450D2C00A864BB /* StatCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatCollectionViewCell.swift; sourceTree = "<group>"; };
+		7D442C81244344C1009716EE /* Statistiques + Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Statistiques + Extension.swift"; sourceTree = "<group>"; };
+		7DA80D6E24438C8400A75BDD /* Chart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chart.swift; sourceTree = "<group>"; };
+		7DA80D7024438CAF00A75BDD /* ChartSeries.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartSeries.swift; sourceTree = "<group>"; };
+		7DA80D7224438CCA00A75BDD /* ChartColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartColors.swift; sourceTree = "<group>"; };
+		7DE7B5C4245623E200B340AC /* MapModele.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapModele.swift; sourceTree = "<group>"; };
+		7DE7B5C7245623F600B340AC /* Country.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Country.swift; sourceTree = "<group>"; };
 		AF37C285243683D900E00D52 /* DetailsCountryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsCountryViewController.swift; sourceTree = "<group>"; };
-		AF37C287243684D500E00D52 /* LineChart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LineChart.swift; sourceTree = "<group>"; };
-		AF37C289243684FA00E00D52 /* CurveAlgorithm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurveAlgorithm.swift; sourceTree = "<group>"; };
 		AF6F3802242F7CCD00F4257A /* Covid Stat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Covid Stat.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF6F3805242F7CCD00F4257A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AF6F3807242F7CCD00F4257A /* StatistiquesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatistiquesViewController.swift; sourceTree = "<group>"; };
@@ -46,24 +46,14 @@
 		AF6F380C242F7CD100F4257A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AF6F380F242F7CD100F4257A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AF6F3811242F7CD100F4257A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		AFA3C28924329AAC00526D61 /* TabBarMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarMenu.swift; sourceTree = "<group>"; };
-		AFA3C28B24329BFB00526D61 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 		AFA3C28F24329DAF00526D61 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Main.strings; sourceTree = "<group>"; };
 		AFA3C29024329DAF00526D61 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
-		AFA3C29424329E0700526D61 /* ClusterAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClusterAnnotationView.swift; sourceTree = "<group>"; };
-		AFA3C29624329E0A00526D61 /* Cycle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cycle.swift; sourceTree = "<group>"; };
-		AFA3C29824329E0D00526D61 /* CycleAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CycleAnnotationView.swift; sourceTree = "<group>"; };
-		AFA3C29A24329E0F00526D61 /* MapData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapData.swift; sourceTree = "<group>"; };
 		AFA3C29C24329F6000526D61 /* Data.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Data.plist; sourceTree = "<group>"; };
-		AFA3C29E2432A23600526D61 /* MapModele.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapModele.swift; sourceTree = "<group>"; };
-		AFA3C2A02432A37000526D61 /* MapViewNetworkCalls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewNetworkCalls.swift; sourceTree = "<group>"; };
 		AFF5C7B2242FAEB50077F488 /* Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
 		AFF5C7B4242FAEDD0077F488 /* Header.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Header.swift; sourceTree = "<group>"; };
 		AFF5C7B6242FAF080077F488 /* StreachHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StreachHeader.swift; sourceTree = "<group>"; };
 		AFF5C7B8242FBD3C0077F488 /* CountryDataCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryDataCollectionViewCell.swift; sourceTree = "<group>"; };
 		AFF5C7BA242FD0330077F488 /* NewtworkCalls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewtworkCalls.swift; sourceTree = "<group>"; };
-		AFF5C7BD242FD2CB0077F488 /* GlobalCount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlobalCount.swift; sourceTree = "<group>"; };
-		AFF5C7BF242FE13E0077F488 /* Country.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Country.swift; sourceTree = "<group>"; };
 		AFFCABC62431044B00FAE146 /* RefreshView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RefreshView.swift; sourceTree = "<group>"; };
 		AFFCABC824310A6300FAE146 /* RefreshItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RefreshItem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -79,6 +69,60 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		7D442C7B2443444E009716EE /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				7DE7B5C7245623F600B340AC /* Country.swift */,
+				7DE7B5C4245623E200B340AC /* MapModele.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		7D442C7C24434456009716EE /* HomePage */ = {
+			isa = PBXGroup;
+			children = (
+				AF6F3807242F7CCD00F4257A /* StatistiquesViewController.swift */,
+				7D442C81244344C1009716EE /* Statistiques + Extension.swift */,
+				AF37C285243683D900E00D52 /* DetailsCountryViewController.swift */,
+			);
+			path = HomePage;
+			sourceTree = "<group>";
+		};
+		7D442C7D2443445F009716EE /* Collection View Cell */ = {
+			isa = PBXGroup;
+			children = (
+				AFF5C7B8242FBD3C0077F488 /* CountryDataCollectionViewCell.swift */,
+				7D27592824450D2C00A864BB /* StatCollectionViewCell.swift */,
+			);
+			path = "Collection View Cell";
+			sourceTree = "<group>";
+		};
+		7D442C7E2443446C009716EE /* CollectionView Header */ = {
+			isa = PBXGroup;
+			children = (
+				AFF5C7B4242FAEDD0077F488 /* Header.swift */,
+			);
+			path = "CollectionView Header";
+			sourceTree = "<group>";
+		};
+		7D442C802443448A009716EE /* NetWork Calls */ = {
+			isa = PBXGroup;
+			children = (
+				AFF5C7BA242FD0330077F488 /* NewtworkCalls.swift */,
+			);
+			path = "NetWork Calls";
+			sourceTree = "<group>";
+		};
+		7DA80D6D24438C4C00A75BDD /* Chart */ = {
+			isa = PBXGroup;
+			children = (
+				7DA80D6E24438C8400A75BDD /* Chart.swift */,
+				7DA80D7024438CAF00A75BDD /* ChartSeries.swift */,
+				7DA80D7224438CCA00A75BDD /* ChartColors.swift */,
+			);
+			path = Chart;
+			sourceTree = "<group>";
+		};
 		AF6F37F9242F7CCD00F4257A = {
 			isa = PBXGroup;
 			children = (
@@ -98,43 +142,24 @@
 		AF6F3804242F7CCD00F4257A /* Covid-19 */ = {
 			isa = PBXGroup;
 			children = (
-				AFA3C29A24329E0F00526D61 /* MapData.swift */,
-				AFA3C29824329E0D00526D61 /* CycleAnnotationView.swift */,
-				AFA3C29624329E0A00526D61 /* Cycle.swift */,
-				AFA3C29424329E0700526D61 /* ClusterAnnotationView.swift */,
-				AFA3C28924329AAC00526D61 /* TabBarMenu.swift */,
+				7DA80D6D24438C4C00A75BDD /* Chart */,
+				7D442C802443448A009716EE /* NetWork Calls */,
+				7D442C7E2443446C009716EE /* CollectionView Header */,
+				7D442C7D2443445F009716EE /* Collection View Cell */,
+				7D442C7C24434456009716EE /* HomePage */,
+				7D442C7B2443444E009716EE /* Model */,
 				AF6F3805242F7CCD00F4257A /* AppDelegate.swift */,
-				AFA3C28B24329BFB00526D61 /* MapViewController.swift */,
-				AFA3C2A02432A37000526D61 /* MapViewNetworkCalls.swift */,
-				AF6F3807242F7CCD00F4257A /* StatistiquesViewController.swift */,
 				AFFCABC824310A6300FAE146 /* RefreshItem.swift */,
-				AFF5C7BC242FD2BC0077F488 /* Modele */,
-				AFF5C7BA242FD0330077F488 /* NewtworkCalls.swift */,
-				AFF5C7B8242FBD3C0077F488 /* CountryDataCollectionViewCell.swift */,
 				AF6F3809242F7CCD00F4257A /* Main.storyboard */,
 				AFA3C29C24329F6000526D61 /* Data.plist */,
 				AF6F380C242F7CD100F4257A /* Assets.xcassets */,
-				AF6F380E242F7CD100F4257A /* LaunchScreen.storyboard */,
-				AFF5C7B4242FAEDD0077F488 /* Header.swift */,
 				AFF5C7B6242FAF080077F488 /* StreachHeader.swift */,
 				AF6F3811242F7CD100F4257A /* Info.plist */,
 				AFF5C7B2242FAEB50077F488 /* Extension.swift */,
 				AFFCABC62431044B00FAE146 /* RefreshView.swift */,
-				AF37C285243683D900E00D52 /* DetailsCountryViewController.swift */,
-				AF37C287243684D500E00D52 /* LineChart.swift */,
-				AF37C289243684FA00E00D52 /* CurveAlgorithm.swift */,
+				AF6F380E242F7CD100F4257A /* LaunchScreen.storyboard */,
 			);
 			path = "Covid-19";
-			sourceTree = "<group>";
-		};
-		AFF5C7BC242FD2BC0077F488 /* Modele */ = {
-			isa = PBXGroup;
-			children = (
-				AFF5C7BD242FD2CB0077F488 /* GlobalCount.swift */,
-				AFF5C7BF242FE13E0077F488 /* Country.swift */,
-				AFA3C29E2432A23600526D61 /* MapModele.swift */,
-			);
-			path = Modele;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -210,26 +235,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AFA3C29524329E0700526D61 /* ClusterAnnotationView.swift in Sources */,
-				AFA3C2A12432A37000526D61 /* MapViewNetworkCalls.swift in Sources */,
-				AFA3C29B24329E1000526D61 /* MapData.swift in Sources */,
-				AF37C288243684D500E00D52 /* LineChart.swift in Sources */,
-				AFA3C29924329E0D00526D61 /* CycleAnnotationView.swift in Sources */,
+				7DA80D7324438CCA00A75BDD /* ChartColors.swift in Sources */,
+				7D27592924450D2C00A864BB /* StatCollectionViewCell.swift in Sources */,
+				7D442C82244344C1009716EE /* Statistiques + Extension.swift in Sources */,
 				AF37C286243683D900E00D52 /* DetailsCountryViewController.swift in Sources */,
-				AFA3C29724329E0B00526D61 /* Cycle.swift in Sources */,
+				7DA80D7124438CAF00A75BDD /* ChartSeries.swift in Sources */,
+				7DA80D6F24438C8400A75BDD /* Chart.swift in Sources */,
+				7DE7B5C8245623F700B340AC /* Country.swift in Sources */,
 				AFF5C7BB242FD0330077F488 /* NewtworkCalls.swift in Sources */,
-				AFF5C7C0242FE13E0077F488 /* Country.swift in Sources */,
 				AFF5C7B5242FAEDD0077F488 /* Header.swift in Sources */,
 				AFF5C7B3242FAEB50077F488 /* Extension.swift in Sources */,
-				AFA3C28A24329AAC00526D61 /* TabBarMenu.swift in Sources */,
 				AFF5C7B7242FAF080077F488 /* StreachHeader.swift in Sources */,
-				AFA3C28C24329BFB00526D61 /* MapViewController.swift in Sources */,
-				AFA3C29F2432A23600526D61 /* MapModele.swift in Sources */,
+				7DE7B5C6245623E200B340AC /* MapModele.swift in Sources */,
 				AF6F3808242F7CCD00F4257A /* StatistiquesViewController.swift in Sources */,
 				AFFCABC72431044B00FAE146 /* RefreshView.swift in Sources */,
-				AF37C28A243684FA00E00D52 /* CurveAlgorithm.swift in Sources */,
 				AF6F3806242F7CCD00F4257A /* AppDelegate.swift in Sources */,
-				AFF5C7BE242FD2CB0077F488 /* GlobalCount.swift in Sources */,
 				AFFCABC924310A6300FAE146 /* RefreshItem.swift in Sources */,
 				AFF5C7B9242FBD3C0077F488 /* CountryDataCollectionViewCell.swift in Sources */,
 			);
@@ -389,11 +409,11 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.1;
+				MARKETING_VERSION = 1.4;
 				PRODUCT_BUNDLE_IDENTIFIER = "startdev.nouri.2020.Covid-19";
 				PRODUCT_NAME = "Covid Stat";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -409,11 +429,11 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.1;
+				MARKETING_VERSION = 1.4;
 				PRODUCT_BUNDLE_IDENTIFIER = "startdev.nouri.2020.Covid-19";
 				PRODUCT_NAME = "Covid Stat";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};

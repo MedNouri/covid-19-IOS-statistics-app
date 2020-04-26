@@ -3,7 +3,7 @@
 //  Covid-19
 //
 //  Created by Mohamed Nouri on 28/03/2020.
-//  Copyright © 2020 Start Development. All rights reserved.
+//  Copyright © 2020 Mohamed Nouri. All rights reserved.
 //
 
  
